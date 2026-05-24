@@ -20,3 +20,6 @@ public/uploads/
 !public/uploads/.gitkeep
 # Local Netlify folder
 .netlify
+
+# pnpm lockfile (project uses npm)
+pnpm-lock.yaml
