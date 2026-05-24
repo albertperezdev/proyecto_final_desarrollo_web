@@ -163,7 +163,3 @@ npx prisma studio
 ```sql
 UPDATE "Profile" SET "role" = 'ADMIN' WHERE "email" = 'usuario@email.com';
 ```
-
-## Licencia
-
-MIT
